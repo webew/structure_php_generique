@@ -1,6 +1,8 @@
 {
 	"name": "fnp/mvc",
 	"description": "Une structure d'application à but pédagogique",
+	"type": "project",
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "webew",
@@ -17,5 +19,6 @@
 			"vendor\\classes\\": "vendor/classes/",
 			"App\\": "src/"
 		}
-	}
+	},
+	"scripts": {}
 }
