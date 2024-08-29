@@ -1,0 +1,17 @@
+{
+	"name": "fnp/mvc",
+	"description": "Une structure d'applcation à but pédagogique",
+	"authors": [
+		{
+			"name": "webew",
+			"email": "bfillion@fabriquenumerique.fr"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"vendor\\classes\\": "vendor/classes/",
+			"App\\": "src/"
+		}
+	}
+}
