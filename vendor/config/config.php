@@ -18,4 +18,5 @@ define("PAGES", "./src/template/pages/");
 
 define("ROUTES", include SRC . 'config/routes.php');
 
+require_once 'configBdd.php';
 require_once SRC . 'config/customConfig.php';
