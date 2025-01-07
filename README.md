@@ -1,4 +1,6 @@
-# Installation
+# Structure d'application PHP générique
+
+## Installation
 
 2 solutions :
 
@@ -10,3 +12,5 @@ composer create-project fnp/mvc mon-projet
 ```
 
 Url du dépôt Packagist : [fnp/mvc](https://packagist.org/packages/fnp/mvc#dev-main)
+
+## Utilisation
